@@ -1,0 +1,1 @@
+Here I am showcasing my skills with Html since it was mentioned on my Portfolio that I do know Html. However, School did not teach me the good practice of starting my codes on github since the first semester. Now I am working on same begginer projects till I reach the complex ones.
